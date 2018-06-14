@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	inputÈ­¸éÀÔ´Ï´Ù
-	ÀÛ¾÷ 
+	inputÈ­ï¿½ï¿½ï¿½Ô´Ï´ï¿½
+	ï¿½Û¾ï¿½ 
 	abcd
 </body>
 </html>
