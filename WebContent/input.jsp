@@ -9,10 +9,5 @@
 <body>
 	input화면입니다
 	작업 
-<<<<<<< HEAD
-	입력화면 성능이 개선되었습니다.
-=======
-	성능이 개가 되었습니다.
->>>>>>> frontcontroller
 </body>
 </html>
